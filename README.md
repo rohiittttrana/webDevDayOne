@@ -1,2 +1,2 @@
 # webDevDayOne
-harkirat week one  frontend project vs code 
+ week one  frontend project vs code 
